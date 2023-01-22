@@ -1,0 +1,12 @@
+Date: 2023-01-11,  Time taken: 1673484986.57s
+Date: 2023-01-11,  Time taken: 2.67s
+Date: 2023-01-11,  Time taken: 3.42s
+Date: 2023-01-11,  Time taken: 2.16s
+Date: 2023-01-11,  Time taken: 2.62s
+Date: 2023-01-11,  Time taken: 52.0s
+Date: 2023-01-11,  Time taken: 2.28s
+Date: 2023-01-11,  Time taken: 3.29s
+Date: 2023-01-11,  Time taken: 2.56s
+Date: 2023-01-12,  Time taken: 229.11s
+Date: 2023-01-12,  Time taken: 76.22s
+Date: 2023-01-18,  Time taken: 113.02s
